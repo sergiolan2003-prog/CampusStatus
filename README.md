@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Taller-git
+=======
+# proyecto-git
+>>>>>>> titulo-readme
 Sergio Lancheros Botero
 Repositorio de práctica del taller de Git.
 Materia Backend.
