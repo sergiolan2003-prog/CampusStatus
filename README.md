@@ -1,4 +1,4 @@
-# campus-git
+# Taller-git
 Sergio Lancheros Botero
 Repositorio de práctica del taller de Git.
 Materia Backend.
